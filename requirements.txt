@@ -1,0 +1,14 @@
+# IGDB API and HTTP requests
+igdb-api-v4==0.3.0
+requests==2.31.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Prolog integration
+pyswip==0.2.10
+
+# Code quality tools (optional)
+flake8==6.1.0
+mypy==1.7.1
+black==23.12.1
