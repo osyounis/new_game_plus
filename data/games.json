@@ -1,0 +1,1722 @@
+[
+  {
+    "id": 1026,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: A Link to the Past",
+    "platforms": [
+      {
+        "id": 306,
+        "name": "Satellaview"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 137,
+        "name": "New Nintendo 3DS"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      }
+    ],
+    "slug": "the-legend-of-zelda-a-link-to-the-past",
+    "total_rating": 96.16638399088082
+  },
+  {
+    "id": 1103,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Metroid",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 137,
+        "name": "New Nintendo 3DS"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      }
+    ],
+    "slug": "super-metroid",
+    "total_rating": 96.11236084013213
+  },
+  {
+    "id": 1070,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario World",
+    "platforms": [
+      {
+        "id": 52,
+        "name": "Arcade"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 137,
+        "name": "New Nintendo 3DS"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      }
+    ],
+    "slug": "super-mario-world",
+    "total_rating": 96.08642185745853
+  },
+  {
+    "id": 119133,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Elden Ring",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "slug": "elden-ring",
+    "total_rating": 95.89610814480679
+  },
+  {
+    "id": 1454,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Suikoden II",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 46,
+        "name": "PlayStation Vita"
+      },
+      {
+        "id": 7,
+        "name": "PlayStation"
+      },
+      {
+        "id": 38,
+        "name": "PlayStation Portable"
+      }
+    ],
+    "slug": "suikoden-ii",
+    "total_rating": 95.88796208574502
+  },
+  {
+    "id": 119171,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Baldur's Gate III",
+    "platforms": [
+      {
+        "id": 170,
+        "name": "Google Stadia"
+      },
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "slug": "baldurs-gate-iii",
+    "total_rating": 95.2687615075368
+  },
+  {
+    "id": 7346,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "platforms": [
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "total_rating": 95.10442416814999
+  },
+  {
+    "id": 426,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy III",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 137,
+        "name": "New Nintendo 3DS"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      }
+    ],
+    "slug": "final-fantasy-iii--7",
+    "total_rating": 94.64378409667685
+  },
+  {
+    "id": 1627,
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Super Smash Bros. Melee",
+    "platforms": [
+      {
+        "id": 21,
+        "name": "Nintendo GameCube"
+      }
+    ],
+    "slug": "super-smash-bros-melee",
+    "total_rating": 94.54176958558116
+  },
+  {
+    "id": 19560,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "slug": "god-of-war--1",
+    "total_rating": 94.28685263373046
+  },
+  {
+    "id": 119388,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+    "total_rating": 94.23340584592265
+  },
+  {
+    "id": 1073,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Super Mario World 2: Yoshi's Island",
+    "platforms": [
+      {
+        "id": 306,
+        "name": "Satellaview"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      }
+    ],
+    "slug": "super-mario-world-2-yoshi-s-island",
+    "total_rating": 93.69344139232399
+  },
+  {
+    "id": 1105,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Metroid Prime",
+    "platforms": [
+      {
+        "id": 21,
+        "name": "Nintendo GameCube"
+      }
+    ],
+    "slug": "metroid-prime",
+    "total_rating": 93.67374582453749
+  },
+  {
+    "id": 1077,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Galaxy",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      }
+    ],
+    "slug": "super-mario-galaxy",
+    "total_rating": 93.67170322392332
+  },
+  {
+    "id": 25076,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Red Dead Redemption 2",
+    "platforms": [
+      {
+        "id": 170,
+        "name": "Google Stadia"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "slug": "red-dead-redemption-2",
+    "total_rating": 93.66249568693394
+  },
+  {
+    "id": 74,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mass Effect 2",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      }
+    ],
+    "slug": "mass-effect-2",
+    "total_rating": 93.5108571609129
+  },
+  {
+    "id": 9927,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Persona 5",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "slug": "persona-5",
+    "total_rating": 93.13799371491666
+  },
+  {
+    "id": 26192,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last of Us Part II",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "slug": "the-last-of-us-part-ii",
+    "total_rating": 93.03557310673217
+  },
+  {
+    "id": 126098,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Half-Life Alyx",
+    "platforms": [
+      {
+        "id": 161,
+        "name": "Windows Mixed Reality"
+      },
+      {
+        "id": 163,
+        "name": "SteamVR"
+      },
+      {
+        "id": 385,
+        "name": "Oculus Rift"
+      }
+    ],
+    "slug": "half-life-alyx",
+    "total_rating": 92.92534550525974
+  },
+  {
+    "id": 1942,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Witcher 3: Wild Hunt",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "the-witcher-3-wild-hunt",
+    "total_rating": 92.86599248061208
+  },
+  {
+    "id": 26758,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Odyssey",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "super-mario-odyssey",
+    "total_rating": 92.86414030260377
+  },
+  {
+    "id": 303811,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Astro Bot",
+    "platforms": [
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "slug": "astro-bot",
+    "total_rating": 92.8461244698035
+  },
+  {
+    "id": 112875,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "God of War Ragnarök",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "slug": "god-of-war-ragnarok",
+    "total_rating": 92.81189782361828
+  },
+  {
+    "id": 3363,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Mario & Luigi: Bowser's Inside Story",
+    "platforms": [
+      {
+        "id": 20,
+        "name": "Nintendo DS"
+      }
+    ],
+    "slug": "mario-luigi-bowser-s-inside-story",
+    "total_rating": 92.77380180141401
+  },
+  {
+    "id": 1078,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Super Mario Galaxy 2",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      }
+    ],
+    "slug": "super-mario-galaxy-2",
+    "total_rating": 92.73791550340285
+  },
+  {
+    "id": 298526,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Kingdom Come: Deliverance II",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "slug": "kingdom-come-deliverance-ii",
+    "total_rating": 92.49713659555562
+  },
+  {
+    "id": 1802,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "name": "Chrono Trigger",
+    "platforms": [
+      {
+        "id": 306,
+        "name": "Satellaview"
+      },
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System"
+      },
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      }
+    ],
+    "slug": "chrono-trigger",
+    "total_rating": 92.35083828750427
+  },
+  {
+    "id": 1009,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Last of Us",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      }
+    ],
+    "slug": "the-last-of-us",
+    "total_rating": 92.32852673427067
+  },
+  {
+    "id": 1128,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Castlevania: Symphony of the Night",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 7,
+        "name": "PlayStation"
+      },
+      {
+        "id": 38,
+        "name": "PlayStation Portable"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      }
+    ],
+    "slug": "castlevania-symphony-of-the-night",
+    "total_rating": 92.26402724355611
+  },
+  {
+    "id": 1600,
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "name": "Gran Turismo 3: A-Spec",
+    "platforms": [
+      {
+        "id": 8,
+        "name": "PlayStation 2"
+      }
+    ],
+    "slug": "gran-turismo-3-a-spec",
+    "total_rating": 92.26296577910865
+  },
+  {
+    "id": 116,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Star Wars: Knights of the Old Republic",
+    "platforms": [
+      {
+        "id": 11,
+        "name": "Xbox"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "star-wars-knights-of-the-old-republic",
+    "total_rating": 92.07473845305006
+  },
+  {
+    "id": 272,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "name": "Unreal Tournament",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 23,
+        "name": "Dreamcast"
+      },
+      {
+        "id": 8,
+        "name": "PlayStation 2"
+      }
+    ],
+    "slug": "unreal-tournament",
+    "total_rating": 92.06172227246557
+  },
+  {
+    "id": 1691,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "name": "Advance Wars",
+    "platforms": [
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 24,
+        "name": "Game Boy Advance"
+      }
+    ],
+    "slug": "advance-wars",
+    "total_rating": 92.05901464662092
+  },
+  {
+    "id": 565,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted 2: Among Thieves",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      }
+    ],
+    "slug": "uncharted-2-among-thieves",
+    "total_rating": 91.98507321517059
+  },
+  {
+    "id": 72,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Portal 2",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "portal-2",
+    "total_rating": 91.98341934245698
+  },
+  {
+    "id": 7331,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Uncharted 4: A Thief's End",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "slug": "uncharted-4-a-thief-s-end",
+    "total_rating": 91.91284431899726
+  },
+  {
+    "id": 1029,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "platforms": [
+      {
+        "id": 5,
+        "name": "Wii"
+      },
+      {
+        "id": 4,
+        "name": "Nintendo 64"
+      },
+      {
+        "id": 416,
+        "name": "64DD"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      }
+    ],
+    "slug": "the-legend-of-zelda-ocarina-of-time",
+    "total_rating": 91.7488944814919
+  },
+  {
+    "id": 14593,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hollow Knight",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "hollow-knight",
+    "total_rating": 91.7020208910341
+  },
+  {
+    "id": 732,
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Grand Theft Auto: San Andreas",
+    "platforms": [
+      {
+        "id": 11,
+        "name": "Xbox"
+      },
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 12,
+        "name": "Xbox 360"
+      },
+      {
+        "id": 8,
+        "name": "PlayStation 2"
+      }
+    ],
+    "slug": "grand-theft-auto-san-andreas",
+    "total_rating": 91.67695778709704
+  },
+  {
+    "id": 113112,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat 'em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hades",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "hades--1",
+    "total_rating": 91.67183615090607
+  },
+  {
+    "id": 9643,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Return of the Obra Dinn",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "return-of-the-obra-dinn",
+    "total_rating": 91.63108712339576
+  },
+  {
+    "id": 115289,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Hollow Knight: Silksong",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "hollow-knight-silksong",
+    "total_rating": 91.52832949080565
+  },
+  {
+    "id": 7334,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Bloodborne",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      }
+    ],
+    "slug": "bloodborne",
+    "total_rating": 91.50519602069444
+  },
+  {
+    "id": 418,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Final Fantasy X",
+    "platforms": [
+      {
+        "id": 8,
+        "name": "PlayStation 2"
+      }
+    ],
+    "slug": "final-fantasy-x",
+    "total_rating": 91.46871635468996
+  },
+  {
+    "id": 999,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Oddworld: Abe's Oddysee",
+    "platforms": [
+      {
+        "id": 9,
+        "name": "PlayStation 3"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 13,
+        "name": "DOS"
+      },
+      {
+        "id": 7,
+        "name": "PlayStation"
+      },
+      {
+        "id": 38,
+        "name": "PlayStation Portable"
+      }
+    ],
+    "slug": "oddworld-abe-s-oddysee",
+    "total_rating": 91.32243306374188
+  },
+  {
+    "id": 2899,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "EarthBound",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System"
+      },
+      {
+        "id": 41,
+        "name": "Wii U"
+      },
+      {
+        "id": 137,
+        "name": "New Nintendo 3DS"
+      },
+      {
+        "id": 24,
+        "name": "Game Boy Advance"
+      },
+      {
+        "id": 58,
+        "name": "Super Famicom"
+      }
+    ],
+    "slug": "earthbound",
+    "total_rating": 91.31070760175112
+  },
+  {
+    "id": 254339,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      }
+    ],
+    "name": "Super Mario Bros. Wonder",
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "super-mario-bros-wonder",
+    "total_rating": 91.22467540680961
+  },
+  {
+    "id": 12517,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "name": "Undertale",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 46,
+        "name": "PlayStation Vita"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "undertale",
+    "total_rating": 91.17426678118198
+  },
+  {
+    "id": 902,
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "name": "Sid Meier's Civilization",
+    "platforms": [
+      {
+        "id": 149,
+        "name": "PC-9800 Series"
+      },
+      {
+        "id": 63,
+        "name": "Atari ST/STE"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 13,
+        "name": "DOS"
+      },
+      {
+        "id": 16,
+        "name": "Amiga"
+      }
+    ],
+    "slug": "sid-meiers-civilization",
+    "total_rating": 91.020620883122
+  },
+  {
+    "id": 7170,
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "Ico",
+    "platforms": [
+      {
+        "id": 8,
+        "name": "PlayStation 2"
+      }
+    ],
+    "slug": "ico",
+    "total_rating": 90.94585189073337
+  }
+]
