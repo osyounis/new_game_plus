@@ -50,7 +50,7 @@ class PrologBridge:
         Returns:
             List of recommended game titles.
         """
-        query = f"recommended_by_genre('{game_title}', X)"
+        query = f"recommend_by_genre('{game_title}', X)"
         return self._execute_query(query, limit)
 
 
@@ -69,7 +69,7 @@ class PrologBridge:
         Returns:
             List of recommended game titles.
         """
-        query = f"recommended_by_platform('{game_title}', X)"
+        query = f"recommend_by_platform('{game_title}', X)"
         return self._execute_query(query, limit)
 
 
@@ -144,7 +144,7 @@ def main() -> None:
 
     # Test with a game (replace with an actual game from your knowledge base)
     test_game = "The Witcher 3: Wild Hunt"
-    print(f"\Recommendations based on '{test_game}':\n")
+    print(f"\nRecommendations based on '{test_game}':\n")
 
     print("By Genre:")
     genre_recs = bridge.get_recommendations_by_genre(test_game, limit=5)

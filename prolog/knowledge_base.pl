@@ -100,14 +100,14 @@ game('Final Fantasy III', adventure, new_nintendo_3ds, 94).
 game('Final Fantasy III', adventure, super_famicom, 94).
 game('Super Smash Bros. Melee', fighting, nintendo_gamecube, 94).
 game('Super Smash Bros. Melee', platform, nintendo_gamecube, 94).
+game('The Legend of Zelda: Tears of the Kingdom', puzzle, nintendo_switch, 94).
+game('The Legend of Zelda: Tears of the Kingdom', adventure, nintendo_switch, 94).
 game('God of War', role_playing_rpg, playstation_4, 94).
 game('God of War', role_playing_rpg, pc_microsoft_windows, 94).
 game('God of War', hack_and_slashbeat_em_up, playstation_4, 94).
 game('God of War', hack_and_slashbeat_em_up, pc_microsoft_windows, 94).
 game('God of War', adventure, playstation_4, 94).
 game('God of War', adventure, pc_microsoft_windows, 94).
-game('The Legend of Zelda: Tears of the Kingdom', puzzle, nintendo_switch, 94).
-game('The Legend of Zelda: Tears of the Kingdom', adventure, nintendo_switch, 94).
 game('Super Mario World 2: Yoshi\'s Island', platform, satellaview, 93).
 game('Super Mario World 2: Yoshi\'s Island', platform, super_nintendo_entertainment_system, 93).
 game('Super Mario World 2: Yoshi\'s Island', platform, super_famicom, 93).
