@@ -123,7 +123,7 @@
       }
     ],
     "slug": "super-mario-world",
-    "total_rating": 96.08642185745853
+    "total_rating": 96.08593869728256
   },
   {
     "id": 119133,
@@ -165,7 +165,7 @@
       }
     ],
     "slug": "elden-ring",
-    "total_rating": 95.89610814480679
+    "total_rating": 95.89583152725237
   },
   {
     "id": 1454,
@@ -249,7 +249,7 @@
       }
     ],
     "slug": "baldurs-gate-iii",
-    "total_rating": 95.2687615075368
+    "total_rating": 95.26899214455247
   },
   {
     "id": 7346,
@@ -275,7 +275,7 @@
       }
     ],
     "slug": "the-legend-of-zelda-breath-of-the-wild",
-    "total_rating": 95.10442416814999
+    "total_rating": 95.10456656525044
   },
   {
     "id": 426,
@@ -338,6 +338,28 @@
     "total_rating": 94.54176958558116
   },
   {
+    "id": 119388,
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "platforms": [
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+    "total_rating": 94.30265873646965
+  },
+  {
     "id": 19560,
     "genres": [
       {
@@ -365,29 +387,7 @@
       }
     ],
     "slug": "god-of-war--1",
-    "total_rating": 94.28685263373046
-  },
-  {
-    "id": 119388,
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "name": "The Legend of Zelda: Tears of the Kingdom",
-    "platforms": [
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "slug": "the-legend-of-zelda-tears-of-the-kingdom",
-    "total_rating": 94.23340584592265
+    "total_rating": 94.28681876576887
   },
   {
     "id": 1073,
@@ -503,7 +503,7 @@
       }
     ],
     "slug": "red-dead-redemption-2",
-    "total_rating": 93.66249568693394
+    "total_rating": 93.66244768266188
   },
   {
     "id": 74,
@@ -537,7 +537,7 @@
       }
     ],
     "slug": "mass-effect-2",
-    "total_rating": 93.5108571609129
+    "total_rating": 93.51079002031193
   },
   {
     "id": 9927,
@@ -665,7 +665,7 @@
       }
     ],
     "slug": "the-witcher-3-wild-hunt",
-    "total_rating": 92.86599248061208
+    "total_rating": 92.86606463702051
   },
   {
     "id": 26758,
@@ -691,7 +691,7 @@
       }
     ],
     "slug": "super-mario-odyssey",
-    "total_rating": 92.86414030260377
+    "total_rating": 92.86425668304989
   },
   {
     "id": 303811,
@@ -795,7 +795,7 @@
       }
     ],
     "slug": "super-mario-galaxy-2",
-    "total_rating": 92.73791550340285
+    "total_rating": 92.73804648840157
   },
   {
     "id": 298526,
@@ -983,7 +983,7 @@
       }
     ],
     "slug": "star-wars-knights-of-the-old-republic",
-    "total_rating": 92.07473845305006
+    "total_rating": 92.07490015620732
   },
   {
     "id": 272,
@@ -1077,7 +1077,7 @@
       }
     ],
     "slug": "uncharted-2-among-thieves",
-    "total_rating": 91.98507321517059
+    "total_rating": 91.9851177950128
   },
   {
     "id": 72,
@@ -1123,7 +1123,7 @@
       }
     ],
     "slug": "portal-2",
-    "total_rating": 91.98341934245698
+    "total_rating": 91.98334870483814
   },
   {
     "id": 7331,
@@ -1145,7 +1145,7 @@
       }
     ],
     "slug": "uncharted-4-a-thief-s-end",
-    "total_rating": 91.91284431899726
+    "total_rating": 91.91276696797686
   },
   {
     "id": 1029,
@@ -1179,7 +1179,7 @@
       }
     ],
     "slug": "the-legend-of-zelda-ocarina-of-time",
-    "total_rating": 91.7488944814919
+    "total_rating": 91.74871851022998
   },
   {
     "id": 14593,
@@ -1229,7 +1229,7 @@
       }
     ],
     "slug": "hollow-knight",
-    "total_rating": 91.7020208910341
+    "total_rating": 91.70154164311317
   },
   {
     "id": 732,
@@ -1287,7 +1287,7 @@
       }
     ],
     "slug": "grand-theft-auto-san-andreas",
-    "total_rating": 91.67695778709704
+    "total_rating": 91.67700646502928
   },
   {
     "id": 113112,
@@ -1345,7 +1345,7 @@
       }
     ],
     "slug": "hades--1",
-    "total_rating": 91.67183615090607
+    "total_rating": 91.67183933123165
   },
   {
     "id": 9643,
@@ -1445,7 +1445,7 @@
       }
     ],
     "slug": "hollow-knight-silksong",
-    "total_rating": 91.52832949080565
+    "total_rating": 91.52829948935224
   },
   {
     "id": 7334,
@@ -1489,7 +1489,7 @@
       }
     ],
     "slug": "final-fantasy-x",
-    "total_rating": 91.46871635468996
+    "total_rating": 91.46845675513417
   },
   {
     "id": 999,
