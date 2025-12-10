@@ -150,8 +150,7 @@ new_game_plus/
 ├── .env                    # API credentials (NOT in git)
 ├── .env.example           # Template for .env
 ├── requirements.txt       # Python dependencies
-├── README.md              # This file
-└── CLAUDE.md              # Development guidelines
+└── README.md              # This file
 ```
 
 ## How It Works
