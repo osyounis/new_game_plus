@@ -1,6 +1,6 @@
-![Project Banner](./assets/new-game-plus-banner.jpg)
-
 # NewGame+
+
+![Project Banner](./assets/new-game-plus-banner.jpg)
 
 A game recommendation system that suggests video games based on titles you've previously played. Built with Python and Prolog for logic-based recommendations.
 
